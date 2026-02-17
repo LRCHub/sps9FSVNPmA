@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ham",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-17T02:51:01.148906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ham 'N' Eggs",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Ham_'N'_Eggs_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hungry Ham",
+      "artist": "A$AP Ferg feat. Skrillex & Crystal Caines",
+      "has_synced": true,
+      "path": "select/02_Hungry_Ham_A$AP_Ferg_feat._Skrillex_&_Crystal_Caines.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hungry Ham (feat. Skrillex & Crystal Caines)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/03_Hungry_Ham_(feat._Skrillex_&_Crystal_Caines)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Green Eggs & Ham",
+      "artist": "Princess Nokia",
+      "has_synced": true,
+      "path": "select/04_Green_Eggs_&_Ham_Princess_Nokia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ham Ne Tum Ko Dekha",
+      "artist": "Shailendra Singh",
+      "has_synced": true,
+      "path": "select/05_Ham_Ne_Tum_Ko_Dekha_Shailendra_Singh.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dim The Lights, Chill The Ham",
+      "artist": "Shadowy Men On A Shadowy Planet",
+      "has_synced": false,
+      "path": "select/06_Dim_The_Lights,_Chill_The_Ham_Shadowy_Men_On_A_Shadowy_Planet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dim The Lights, Chill The Ham Reprise",
+      "artist": "Shadowy Men On A Shadowy Planet",
+      "has_synced": false,
+      "path": "select/07_Dim_The_Lights,_Chill_The_Ham_Reprise_Shadowy_Men_On_A_Shadowy_Planet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Canned Ham",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/08_Canned_Ham_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jane Ham Sadak Ke Logon Se",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/09_Jane_Ham_Sadak_Ke_Logon_Se_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Country Ham",
+      "artist": "The Felice Brothers",
+      "has_synced": true,
+      "path": "select/10_Country_Ham_The_Felice_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ham 'N' Eggs",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/11_Ham_'N'_Eggs_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ham Meyvayı Kopardılar Dalından",
+      "artist": "Barış Manço",
+      "has_synced": true,
+      "path": "select/12_Ham_Meyvayı_Kopardılar_Dalından_Barış_Manço.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hamtaro Ham Ham Friends",
+      "artist": "Cristina D'Avena",
+      "has_synced": true,
+      "path": "select/13_Hamtaro_Ham_Ham_Friends_Cristina_D'Avena.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ham Kitne Nadan The Yaaron",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/14_Ham_Kitne_Nadan_The_Yaaron_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ham",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_Ham_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
